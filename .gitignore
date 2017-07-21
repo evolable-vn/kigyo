@@ -1,0 +1,15 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+wp-config.php
+readme.html
+.htaccess
+wp-content/uploads/
+wp-content/themes/twentyfifteen/
+wp-content/themes/twentysixteen/
+wp-content/themes/twentyseventeen/
+wp-content/themes/twentysixteen-ja.po
+wp-content/themes/twentysixteen-ja.mo
+wp-content/themes/twentyseventeen-ja.po
+wp-content/themes/twentyseventeen-ja.mo
+wp-content/themes/twentyfifteen-ja.po
+wp-content/themes/twentyfifteen-ja.mo
+wp-content/themes/index.php
